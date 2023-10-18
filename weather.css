@@ -51,6 +51,13 @@ body{
     border: none;
     border-radius: 4px;
 }
+#add:hover{
+    background-color: white;
+    color: #270aca;
+    border: solid 1px #270aca;
+    width: 6.5rem;
+    height: 3.5rem;
+}
 .display{
     text-align: center;
     width: 520px;
